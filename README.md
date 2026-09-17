@@ -6,7 +6,7 @@ The project will also look at whether similar relationships appear in other heal
 
 Other factors such as population density, age, and income may also be considered because they could affect the results. The goal of the project is to study relationships in the data, not to prove that political alignment causes a disease or health outcome.
 
-## Research Question 1
+Research Question 1:
 
 Is political alignment associated with COVID-19 spread in Northern Indiana?
 
@@ -16,7 +16,7 @@ Hₐ: ρ ≠ 0- there is a statistically significant relationship between politi
 
 We will not assume beforehand whether one political alignment will have higher or lower COVID-19 rates.
 
-## Research Question 2
+Research Question 2:
 
 Does the relationship between political alignment and COVID-19 also appear in other health or social outcomes?
 
